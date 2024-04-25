@@ -20,21 +20,8 @@ Hasil:
 ![image 3](https://github.com/allfazri2001/lab2_web/assets/167978131/6716736e-9d0e-4e06-bad8-fa2140f2f3dc)
 
 
-Hasil:
-
-![image 4](https://github.com/allfazri2001/lab2_web/assets/167978131/53d5eb2b-d2a4-4f41-b194-b4d879e8c2c8)
-
-
-
 ## Form Input
 ![image 5](https://github.com/allfazri2001/lab2_web/assets/167978131/858125e5-9217-4962-8896-8a6cb29498d0)
-
-
-
-Hasil:
-
-![image 6](https://github.com/allfazri2001/lab2_web/assets/167978131/5b597bdf-21bb-4bce-8f35-bf9689ad8cd6)
-
 
 
 ## Tugas
