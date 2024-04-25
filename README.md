@@ -43,7 +43,7 @@ Hasil:
 
 Hasil:
 
-![image 8](https://github.com/allfazri2001/lab2_web/assets/167978131/67652ad4-fdb3-4bf6-a93e-5b62a1eaf280)
+
 
 
 
