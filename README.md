@@ -5,30 +5,47 @@ Nama : Fajri Al Jauhari
 NIM  : 312210476
 
 ## Belajar PHP Dasar
-![324306925-a5dded82-7a92-49bc-9d3e-fb7a32bd45b3](https://github.com/allfazri2001/lab2_web/assets/167978131/deff4bf8-2bd7-4e69-b79d-aea6a93c916e)
+![Screenshot 2024-04-26 122957](https://github.com/allfazri2001/lab2_web/assets/167978131/ec860cdf-0f54-40c3-a1b0-7c9dbf9478f3)
+
 
 
 
 Hasil:
 
-![image 2](https://github.com/allfazri2001/lab2_web/assets/167978131/fcc89a04-c7b6-463d-b598-e245f41a9f9c)
+![Screenshot 2024-04-26 123010](https://github.com/allfazri2001/lab2_web/assets/167978131/dd096233-258f-4996-8311-808c6418299d)
+
 
 
 
 
 ## Menggunakan Variable
-![image 3](https://github.com/allfazri2001/lab2_web/assets/167978131/6716736e-9d0e-4e06-bad8-fa2140f2f3dc)
+![Screenshot 2024-04-26 123824](https://github.com/allfazri2001/lab2_web/assets/167978131/ba7e26ce-584b-45b1-ab37-d1f65ed10792)
 
-
-## Form Input
-![image 5](https://github.com/allfazri2001/lab2_web/assets/167978131/858125e5-9217-4962-8896-8a6cb29498d0)
-
-
-## Tugas
-![image 7](https://github.com/allfazri2001/lab2_web/assets/167978131/4bcfdc02-15f5-4845-97d3-9c4a0d9171d0)
 
 
 Hasil:
+![Screenshot 2024-04-26 123839](https://github.com/allfazri2001/lab2_web/assets/167978131/444584d3-3a65-42ba-bc73-f8ee0208f0b5)
+
+
+
+
+## Form Input
+![Screenshot 2024-04-26 130113](https://github.com/allfazri2001/lab2_web/assets/167978131/ee30cb4c-7af8-458a-bdc1-2474996e8d37)
+
+
+Hasil:
+![Screenshot 2024-04-26 130125](https://github.com/allfazri2001/lab2_web/assets/167978131/c75d109b-35ee-4261-b6e3-4c8a9871baa3)
+
+
+
+
+## Tugas
+![Screenshot 2024-04-26 130310](https://github.com/allfazri2001/lab2_web/assets/167978131/a7dfec53-b135-4de8-87ea-0a183af2bf0c)
+
+
+
+Hasil:
+![Screenshot 2024-04-26 130354](https://github.com/allfazri2001/lab2_web/assets/167978131/b0d429f7-e828-4d1e-b536-9290b7db95f8)
 
 
 
