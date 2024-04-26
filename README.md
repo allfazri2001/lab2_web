@@ -1,4 +1,4 @@
-# lab2_web praktikum 2
+# lab2_web
 
 Nama : Fajri Al Jauhari
 
@@ -25,7 +25,6 @@ Hasil:
 
 Hasil:
 ![Screenshot 2024-04-26 123839](https://github.com/allfazri2001/lab2_web/assets/167978131/444584d3-3a65-42ba-bc73-f8ee0208f0b5)
-
 
 
 
