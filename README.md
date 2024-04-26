@@ -1,10 +1,8 @@
-# lab2_web
+# lab2_web praktikum 2
 
 Nama : Fajri Al Jauhari
 
 NIM  : 312210476
-
-praktikum 2
 
 ## Belajar PHP Dasar
 ![Screenshot 2024-04-26 122957](https://github.com/allfazri2001/lab2_web/assets/167978131/ec860cdf-0f54-40c3-a1b0-7c9dbf9478f3)
